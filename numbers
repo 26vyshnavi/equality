@@ -1,0 +1,12 @@
+
+a = int(input("enter the no "))
+b = int(input("enter the no "))
+if a==b:
+    print("the given no's are equal")
+else:
+    print("the given no's are not equal")
+    
+#output
+enter the no 2
+enter the no 21
+the given no's are not equal
